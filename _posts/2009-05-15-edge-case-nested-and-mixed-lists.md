@@ -1,61 +1,33 @@
 ---
 layout: post
-title: "Edge Case: Nested and Mixed Lists"
+title: "에어데스크 시작하기"
 categories:
-  - Edge Case
+  - 사용법
 tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
+  - 설치
+  - 동기화
+  - 초기설정
 ---
 
-Nested and mixed lists are an interesting beast. It's a corner case to make sure that
+에어데스크는 새 탭을 바꿔주는 브라우저 확장 프로그램입니다.
+완벽히 모든 기능을 사용하고, 더 안전하게 사용하기 위해선 아래의 단계를 따라 진행하시면 됩니다.
 
-* Lists within lists do not break the ordered list numbering order
-* Your list styles go deep enough.
+# 브라우저 동기화
 
-### Ordered -- Unordered -- Ordered
+현재 브라우저를 다른 사람이 로그인하는 경우, 로컬에 저장된 정보가 손실될 우려가 있습니다. 이를 방지하기 위해 브라우저 동기화를 먼저 해주시면, 혹시 발생할 수 있는 문제를 막을 수 있습니다.
 
-1. ordered item
-2. ordered item 
-  * **unordered**
-  * **unordered** 
-    1. ordered item
-    2. ordered item
-3. ordered item
-4. ordered item
+### 크롬 브라우저
 
-### Ordered -- Unordered -- Unordered
+1. 브라우저 우측 상단의 `Chrome 맞춤설정 및 제어`를 누른 후 설정을 클릭합니다. 
+2. `chrome 로그인` 버튼을 눌러줍니다. 만약 이미 로그인 되어있다면 원하는 계정으로 로그인하기 위해 로그아웃 합니다.
+3. 크롬에 로그인 한 후 동기화를 위해서 확인 버튼을 눌러줍니다. 잠시 기다리시면 동기화가 자동으로 이뤄집니다.
 
-1. ordered item
-2. ordered item 
-  * **unordered**
-  * **unordered** 
-    * unordered item
-    * unordered item
-3. ordered item
-4. ordered item
+### 웨일 동기화
+1. 브라우저 우측 상단의 `네이버 웨일에 로그인`을 눌러줍니다.
+2. 네이버 아이디로 로그인을 눌러 로그인합니다.
+3. 잠시 기다리시면 자동으로 동기화가 완료됩니다.
 
-### Unordered -- Ordered -- Unordered
+# 동기화가 안 될 때
 
-* unordered item
-* unordered item 
-  1. ordered
-  2. ordered 
-    * unordered item
-    * unordered item
-* unordered item
-* unordered item
-
-### Unordered -- Unordered -- Ordered
-
-* unordered item
-* unordered item 
-  * unordered
-  * unordered 
-    1. **ordered item**
-    2. **ordered item**
-* unordered item
-* unordered item
+* 크롬: `Chrome 맞춤설정 및 제어` > `사용자` 항목의 `동기화`를 클릭해줍니다. 확장 프로그램을 선택합니다.
+* 웨일: `네이버 웨일 맞춤설정 및 제어` > `로그인` 항목을 보시면 `동기화 데이터 보기`가 있습니다. 동기화할 기능 중 확장 프로그램을 선택합니다.
