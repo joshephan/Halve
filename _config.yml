@@ -4,6 +4,7 @@ description: Stylish, Productive New Tab
 url: https://joshephan.github.io
 logo: airdesk.png                                       # Site logo
 locale: en_US
+comments: true
 
 # Left Block Images
 background:
