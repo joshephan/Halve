@@ -591,6 +591,9 @@ canvas {
   .featured {
     background: #12eabc;
     color: white;
+    width: fit-content;
+    padding: 3px;
+    font-size: 17px;
   }
 
   .warning-message {
