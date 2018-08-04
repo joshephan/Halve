@@ -170,6 +170,23 @@ canvas {
   }
 }
 
+.ggul-tip {
+  color: #00a9ff;
+  border-bottom: 1px solid;
+  padding: 3px 8px;
+  font-weight: 400;
+  width: fit-content;
+  margin-top: 18px;
+  display: inline-block;
+}
+
+.warning-message {
+  color: #fcfcfc;
+  background: #da0100;
+  padding: 3px 8px;
+  font-weight: 400;
+  font-size: 0.8em;
+}
 .projects-menu {
   font-size: 0;
   height: 100%;
