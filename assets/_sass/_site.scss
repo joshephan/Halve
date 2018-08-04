@@ -186,7 +186,7 @@ canvas {
     &:nth-child(8n+1),
     &:nth-child(8n+2) {
       width: 50%;
-      height: 70%;
+      height: 50%;
     }
     &:nth-child(8n+6) {
       width: calc(100%/3 + 100%/3);
@@ -592,7 +592,7 @@ canvas {
     background: #12eabc;
     color: white;
   }
-  
+
   .warning-message {
     color: #fcfcfc;
     background: #da0100;
