@@ -1,16 +1,16 @@
-- title: 동업자로 참여하기
-  url: http://joshephan/github.io/install
+- title: Startup
+  url: http://joshephan/github.io/startup
   image: http://joshephan/github.io/images/halve-home-image.png
   completed: false
-- title: 개발자로 참여하기
+- title: Developer
   url: http://joshephan/github.io/create-icon
   image: http://joshephan/github.io/images/halve-home-image.png
   completed: false
-- title: 큐레이터로 참여하기
+- title: Curating
   url: http://joshephan/github.io/create-icon
   image: http://joshephan/github.io/images/halve-home-image.png
   completed: false
-- title: 투자문의
+- title: Fund Raise
   url: http://joshephan/github.io/create-icon
   image: http://joshephan/github.io/images/halve-home-image.png
   completed: false
