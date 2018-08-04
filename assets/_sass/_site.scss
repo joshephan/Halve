@@ -143,6 +143,7 @@ canvas {
 .projects-link {
   position: absolute;
   top: 68px;
+  display: none;
   font-size: 12px;
   color: darken($white, 40);
 }
