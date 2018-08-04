@@ -2,23 +2,19 @@
   url: https://brunch.co.kr/@skykamja24/1
   image: http://joshephan.github.io/images/600.JPG
   completed: true
-- title: 독학으로 프로그래밍
-  url: https://brunch.co.kr/@skykamja24/97
-  image: http://joshephan.github.io/images/hacker.jpg
 - title: 군대에서 프로그래밍하기
   url: https://brunch.co.kr/@skykamja24/70
   image: http://joshephan.github.io/images/gundea.jpg
   completed: true
+- title: 독학으로 프로그래밍
+  url: https://brunch.co.kr/@skykamja24/97
+  image: http://joshephan.github.io/images/hacker.jpg
   completed: true
 - title: 50시간 확장 프로그램 만들기
   url: https://brunch.co.kr/@skykamja24/60
   image: http://joshephan.github.io/images/50hours.png
   completed: true
-- title: 생각보다 쉬운 프로그래밍
-  url: https://brunch.co.kr/@skykamja24/104
-  image: http://joshephan.github.io/images/mission.jpg
-  completed: true  
 - title: 사명을 찾기 위해서
   url: https://brunch.co.kr/@skykamja24/77
-  image: http://joshephan.github.io/images/easy.png
-  completed: true
+  image: http://joshephan.github.io/images/mission.jpg
+  completed: true  
