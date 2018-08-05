@@ -27,14 +27,14 @@ sass:
   style:            compressed
 
 # Google Analytics
-#google-analytics: UA-XXXXX-Y
+google-analytics: UA-76327717-4
 
 # Social Links
 email:             joshephan0204@gmail.com
 #google.plus:        username
 #twitter:            username
 facebook:           sanghun.han.39
-github:             joshpehan
+github:             joshephan
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
