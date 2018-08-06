@@ -21,7 +21,7 @@ tags:
 배경화면이 움직일 수 있다는걸 아시나요? gif 이미지를 이용하면 움직이는 배경화면을 만들 수 있습니다.
 
 <figure>
-  <img src="images/post/gif-sample.gif">
+  <img src="/images/post/gif-sample.gif">
   <figcaption>영화의 한 작면을 배경화면으로</figcaption>
 </figure>
 
@@ -48,14 +48,14 @@ tags:
 인터넷에서 찾은 이미지를 바로 배경화면으로 써보세요. 사진보다 일러스트 이미지가 좋은 분들에겐 이게 더 어울립니다.
 
 <figure>
-  <img src="images/post/right-click.jpg">
+  <img src="/images/post/right-click.jpg">
   <figcaption>이미지에서 우클릭!</figcaption>
 </figure>
 
 이렇게 이미지에서 우클릭해서 배경화면으로 설정하면,
 
 <figure>
-  <img src="images/post/right-background.jpg">
+  <img src="/images/post/right-background.jpg">
   <figcaption>일러스트 배경화면 설정하기</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ tags:
 메모만 사용하는 방법입니다. 현재시간, 검색, 그 밖의 위젯들, 아이콘들 모두 끕니다. 하루하루 해야할 일을 메모에 적어 사용합니다. 인터넷에서 시간낭비를 0으로 만들고 싶은 분들께 추천드립니다.
 
 <figure>
-  <img src="images/post/minimal.jpg">
+  <img src="/images/post/minimal.jpg">
   <figcaption>메모만 있는 화면</figcaption>
 </figure>
 
@@ -91,14 +91,14 @@ tags:
 많은 참고자료들을 정리할 때, 또는 카테고리별로 분류된 링크를 관리할 때 좋습니다. 아이콘 생성하는게 조금 귀찮으실 수 있는데, 이 점은 북마크 기능과 연동해서 쉽게 만들도록 업데이트할 예정입니다.
 
 <figure>
-  <img src="images/post/makeicon.jpg">
+  <img src="/images/post/makeicon.jpg">
   <figcaption>링크 아이콘 빨리 만들기</figcaption>
 </figure>
 
 참고로 자주 가는 사이트에서 각각의 링크 항목을 드래그해서 바탕화면으로 끌어오시면, 아이콘이 생성됩니다. 
 
 <figure>
-  <img src="images/post/dirty-background.jpg">
+  <img src="/images/post/dirty-background.jpg">
   <figcaption>너무 많은 아이콘...</figcaption>
 </figure>
 
@@ -113,7 +113,7 @@ tags:
 아직까지 일정 날짜를 바꾸고 싶으실때 일일히 수정하셨나요? 죄송합니다. 그냥 드래그하면 바로 바뀝니다.
 
 <figure>
-  <img src="images/post/cal-drag.jpg">
+  <img src="/images/post/cal-drag.jpg">
   <figcaption>일정 날짜를 바꾸고 싶으면</figcaption>
 </figure>
 
