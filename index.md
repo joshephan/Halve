@@ -12,3 +12,5 @@ by 앙드레말로
 에어데스크는 새 탭을 생산성 넘치고, 아름다운 공간으로 바꾸어줍니다.
 
 [시작하기](https://joshephan.github.io/install)
+
+[동료 모집 중: "함께하겠는가?"](https://joshephan.github.io/startup)
