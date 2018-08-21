@@ -17,4 +17,8 @@
 - title: 사명을 찾기 위해서
   url: https://brunch.co.kr/@skykamja24/77
   image: http://joshephan.github.io/images/mission.jpg
+  completed: true 
+- title: 성공법과 카고컬트
+  url: https://brunch.co.kr/@skykamja24/177
+  image: http://joshephan.github.io/images/cargo.jpg
   completed: true  
